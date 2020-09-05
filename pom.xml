@@ -25,7 +25,7 @@
         <aspectjrt.version>1.8.13</aspectjrt.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <commons-validator.version>1.6</commons-validator.version>
-        <hibernate-validator.version>6.0.7.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.1.5.Final</hibernate-validator.version>
         <javax.el.version>3.0.1-b08</javax.el.version>
         <javax.validation-api.version>2.0.1.Final</javax.validation-api.version>
         <logback.version>1.2.3</logback.version>
